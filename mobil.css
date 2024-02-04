@@ -21,8 +21,8 @@ margin: 0;
 }
 
 body {
-background: rgb(255,100,107);
-background: radial-gradient(circle, rgba(255,100,107,1) 0%, rgba(251,122,205,1) 48%, rgba(249,134,255,1) 100%);
+background: rgb(249,134,255);
+background: radial-gradient(circle, rgba(249,134,255,1) 0%, rgba(252,118,159,1) 64%, rgba(255,105,84,1) 100%);
 background-size: 100% 100%;
 background-attachment: fixed;
 background-position: center; 
