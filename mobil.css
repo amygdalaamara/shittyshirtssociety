@@ -22,7 +22,7 @@ margin: 0;
 
 body {
 background: rgb(249,134,255);
-background: radial-gradient(circle, rgba(249,134,255,1) 0%, rgba(252,118,159,1) 64%, rgba(255,105,84,1) 100%);
+background: radial-gradient(circle, rgba(249,134,255,1) 0%, rgba(255,113,99,1) 61%, rgba(206,116,146,1) 73%, rgba(169,118,181,1) 85%, rgba(95,123,252,1) 100%);
 background-size: 100% 100%;
 background-attachment: fixed;
 background-position: center; 
